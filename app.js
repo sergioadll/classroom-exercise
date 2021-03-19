@@ -22,9 +22,10 @@ console.log(parents);
 2. Imprimir el nombre del hijos con padres jubilados (mayores de 65 años)
 
 tips:
-***** Buscar en google cómo recorrer objetos y arrays en javaScript ****
 
-1.    recorrer array -> acceder a la "key" children -> recorrer array -> imprimir
+***** Buscar en google cómo recorrer objetos y arrays en javaScript o ver el video explicativo de la clase del 19/03****
+
+1.    recorrer array -> acceder a la "key" o "clave" children -> recorrer array -> imprimir Nombre del hijo
 2.    utilizar condicionales (if)
 
 */
